@@ -36,11 +36,11 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Yamunaasri
+RegisterNumber:  212222240117
+
 Logic symbol & Truthtable
 RTL realization
 
