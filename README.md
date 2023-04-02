@@ -34,21 +34,30 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
 
+### Program1:
+![p1](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/program.png)
+### Program2:
+![p2](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/pro.png)
+```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Yamunaasri
 RegisterNumber:  212222240117
-
+```
 Logic symbol & Truthtable
 RTL realization
-
 ### Output:
-### RTL
-### TIMING DIAGRAM
-
-
-### TRUTH TABLE 
-
+### RTL1:
+![r](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/RTLimage.png)
+### RTL2:
+![r](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/rtl.png)
+### TIMING DIAGRAM 1:
+![td](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/timingdiagram.png)
+### TIMING DIAGRAM 2:
+![td](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/td.png)
+### TRUTH TABLE 1:
+![truth table](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/Truthtable.png)
+### TRUTH TABLE 2:
+![tt](https://github.com/Yamunaasri/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/tt.png)
 ### Result:
+Implementation of Half Adder and Full Adder circuit is completed.
